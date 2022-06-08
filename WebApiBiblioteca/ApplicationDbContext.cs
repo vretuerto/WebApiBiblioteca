@@ -23,7 +23,9 @@ namespace WebApiBiblioteca
 
         public DbSet<Editorial> Editoriales { get; set; }
         public DbSet<Libro> Libros { get; set; }
-        public DbSet<ConsultaKeyLess> ConsultaKeyLess { get; set; } 
+        public DbSet<ConsultaKeyLess> ConsultaKeyLess { get; set; }
+
+        public DbSet<Usuario> Usuarios { get; set; }
 
     }
 }

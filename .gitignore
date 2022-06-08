@@ -1,3 +1,4 @@
 .vs/
 WebApiBiblioteca/bin
 WebApiBiblioteca/obj
+/WebApiBiblioteca/wwwroot/log.txt

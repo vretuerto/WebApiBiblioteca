@@ -124,7 +124,7 @@ namespace WebApiBiblioteca.Controllers
             catch (Exception ex)
             {
                 await transaction.RollbackAsync();
-                return BadRequest("Se ha producido un error");
+                return BadRequest("Se ha producido un error" + ex.Message);
             }
         }
 
