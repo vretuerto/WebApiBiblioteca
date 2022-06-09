@@ -4,6 +4,7 @@ using System.Text.Json.Serialization;
 using WebApiBiblioteca;
 using WebApiBiblioteca.Filtros;
 using WebApiBiblioteca.Middlewares;
+using WebApiBiblioteca.Servicios;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,6 +31,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
 
 
 builder.Services.AddControllers().AddJsonOptions(opciones => opciones.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
+
+builder.Services.AddHostedService<TareaProgramadaService>();    
 
 // Serilog
 Log.Logger = new LoggerConfiguration().ReadFrom.Configuration(builder.Configuration).CreateLogger();
