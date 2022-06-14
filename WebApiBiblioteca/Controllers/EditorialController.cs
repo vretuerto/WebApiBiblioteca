@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApiBiblioteca.DTOs;
 using WebApiBiblioteca.Entidades;
@@ -6,6 +7,7 @@ using WebApiBiblioteca.Entidades;
 namespace WebApiBiblioteca.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("api/editoriales")]
     public class EditorialController : ControllerBase
     {
