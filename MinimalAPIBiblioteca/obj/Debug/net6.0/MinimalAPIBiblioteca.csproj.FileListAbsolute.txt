@@ -1,0 +1,122 @@
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\appsettings.json
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.exe
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.deps.json
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.runtimeconfig.json
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.pdb
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Humanizer.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.csproj.AssemblyReference.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.AssemblyInfoInputs.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.AssemblyInfo.cs
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\scopedcss\bundle\MinimalAPIBiblioteca.styles.css
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.csproj.CopyComplete
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\refint\MinimalAPIBiblioteca.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.pdb
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.genruntimeconfig.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\ref\MinimalAPIBiblioteca.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\appsettings.Development.json
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\appsettings.json
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.exe
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.deps.json
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.runtimeconfig.json
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\MinimalAPIBiblioteca.pdb
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Humanizer.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.csproj.AssemblyReference.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.AssemblyInfoInputs.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.AssemblyInfo.cs
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.csproj.CoreCompileInputs.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.MvcApplicationPartsAssemblyInfo.cs
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.MvcApplicationPartsAssemblyInfo.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\staticwebassets.build.json
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\staticwebassets.development.json
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\scopedcss\bundle\MinimalAPIBiblioteca.styles.css
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.csproj.CopyComplete
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\refint\MinimalAPIBiblioteca.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.pdb
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\MinimalAPIBiblioteca.genruntimeconfig.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\MinimalAPIBiblioteca\obj\Debug\net6.0\ref\MinimalAPIBiblioteca.dll

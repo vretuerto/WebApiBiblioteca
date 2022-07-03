@@ -10,15 +10,19 @@ using WebApiBiblioteca.Filtros;
 using WebApiBiblioteca.Hubs;
 using WebApiBiblioteca.Middlewares;
 using WebApiBiblioteca.Servicios;
+using WebApiBiblioteca.Utils;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Para evitar ciclos infinitos en entidades relacionadas
-builder.Services.AddControllers(
-    opciones => opciones.Filters.Add(typeof(FiltroDeExcepcion))
-    ).AddJsonOptions(opciones => opciones.JsonSerializerOptions.ReferenceHandler =
-System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles);
+builder.Services.AddControllers(opciones =>
+{
+    opciones.Filters.Add(typeof(FiltroDeExcepcion));
+    opciones.Conventions.Add(new SwaggerVersion());
+}
+).AddJsonOptions(opciones => opciones.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
+
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -52,6 +56,11 @@ builder.Services.AddSwaggerGen(c =>
 
 });
 
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPIAlmacen", Version = "v1" });
+    c.SwaggerDoc("v2", new OpenApiInfo { Title = "WebAPIAlmacen", Version = "v2" });
+});
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 // Registramos en el sistema de inyección de dependencias de la aplicación el ApplicationDbContext

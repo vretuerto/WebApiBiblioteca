@@ -11,6 +11,7 @@ using WebApiBiblioteca.Servicios;
 
 namespace WebApiBiblioteca.Controllers
 {
+    [Route("api/v1/usuarios")]
     public class UsuariosController : ControllerBase
     {
         private readonly ApplicationDbContext context;
