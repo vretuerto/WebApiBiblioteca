@@ -7,6 +7,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using WebApiBiblioteca;
 using WebApiBiblioteca.Filtros;
+using WebApiBiblioteca.Hubs;
 using WebApiBiblioteca.Middlewares;
 using WebApiBiblioteca.Servicios;
 
@@ -89,7 +90,14 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 Log.Logger = new LoggerConfiguration().ReadFrom.Configuration(builder.Configuration).CreateLogger();
 builder.Host.UseSerilog();
 
+
+builder.Services.AddSignalR();
+
+
 var app = builder.Build();
+
+app.MapHub<EncuestaHub>("/encuestaHub");
+
 
 app.UseMiddleware<LogFilePathIPMiddleware>();
 

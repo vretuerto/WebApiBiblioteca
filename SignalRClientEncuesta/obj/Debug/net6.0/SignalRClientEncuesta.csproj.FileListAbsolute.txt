@@ -1,0 +1,62 @@
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.exe
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.deps.json
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.runtimeconfig.json
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.pdb
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.csproj.AssemblyReference.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.AssemblyInfoInputs.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.AssemblyInfo.cs
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.csproj.CopyComplete
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\refint\SignalRClientEncuesta.dll
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.pdb
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.genruntimeconfig.cache
+C:\Users\juanl\Desktop\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\ref\SignalRClientEncuesta.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.exe
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.deps.json
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.runtimeconfig.json
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\SignalRClientEncuesta.pdb
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.csproj.AssemblyReference.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.AssemblyInfoInputs.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.AssemblyInfo.cs
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.csproj.CoreCompileInputs.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.csproj.CopyComplete
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\refint\SignalRClientEncuesta.dll
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.pdb
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\SignalRClientEncuesta.genruntimeconfig.cache
+D:\Curso .NET\Recursos\WebApiBiblioteca\SignalRClientEncuesta\obj\Debug\net6.0\ref\SignalRClientEncuesta.dll
